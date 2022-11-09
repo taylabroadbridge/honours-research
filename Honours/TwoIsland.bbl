@@ -1,0 +1,131 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Arredondo%
+\ \protect \BOthers {.}}{%
+Arredondo%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+arredondo2021inferring}
+\APACinsertmetastar {%
+arredondo2021inferring}%
+\begin{APACrefauthors}%
+Arredondo, A.%
+, Mourato, B.%
+, Nguyen, K.%
+, Boitard, S.%
+, Rodr{\'\i}guez, W.%
+, No{\^u}s, C.%
+\BDBL {}Chikhi, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Inferring number of populations and changes in
+  connectivity under the n-island model} {Inferring number of populations and
+  changes in connectivity under the n-island model}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Heredity}{}{}{1--17}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hein%
+, Schierup%
+\BCBL {}\ \BBA {} Wiuf%
+}{%
+Hein%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+hein2004gene}
+\APACinsertmetastar {%
+hein2004gene}%
+\begin{APACrefauthors}%
+Hein, J.%
+, Schierup, M.%
+\BCBL {}\ \BBA {} Wiuf, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2004}.
+\newblock
+\APACrefbtitle {Gene genealogies, variation and evolution: a primer in
+  coalescent theory} {Gene genealogies, variation and evolution: a primer in
+  coalescent theory}.
+\newblock
+\APACaddressPublisher{}{Oxford University Press, USA}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Slatkin%
+}{%
+Slatkin%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+slarkin1985gene}
+\APACinsertmetastar {%
+slarkin1985gene}%
+\begin{APACrefauthors}%
+Slatkin, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1985}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gene flow in natural populations} {Gene flow in natural
+  populations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annual review of ecology and
+  systematics}{16}{1}{393--430}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wakeley%
+}{%
+Wakeley%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+wakeley2001coalescent}
+\APACinsertmetastar {%
+wakeley2001coalescent}%
+\begin{APACrefauthors}%
+Wakeley, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The coalescent in an island model of population
+  subdivision with variation among demes} {The coalescent in an island model of
+  population subdivision with variation among demes}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Theoretical population biology}{59}{2}{133--144}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wright%
+}{%
+Wright%
+}{%
+{\protect \APACyear {1943}}%
+}]{%
+wright1943isolation}
+\APACinsertmetastar {%
+wright1943isolation}%
+\begin{APACrefauthors}%
+Wright, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1943}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Isolation by distance} {Isolation by distance}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Genetics}{28}{2}{114}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

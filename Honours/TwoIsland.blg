@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: TwoIsland.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: TwoIsland.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 5 entries,
+            6951 wiz_defined-function locations,
+            1303 strings with 11576 characters,
+and the built_in function-call counts, 8911 in all, are:
+= -- 1063
+> -- 76
+< -- 416
++ -- 417
+- -- 10
+* -- 576
+:= -- 1666
+add.period$ -- 19
+call.type$ -- 5
+change.case$ -- 85
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 238
+empty$ -- 375
+format.name$ -- 132
+if$ -- 1675
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 0
+newline$ -- 123
+num.names$ -- 40
+pop$ -- 145
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 602
+stack$ -- 0
+substring$ -- 447
+swap$ -- 151
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 400
+warning$ -- 0
+while$ -- 46
+width$ -- 0
+write$ -- 147
